@@ -6,6 +6,10 @@
 
 In this assignment, an e-commerce application is provided in which create a back-end system for managing a PostgreSQL database using Sequelize's tools for more easily creating and formatting API endpoints. As we move away from handling SQL-based databases directly, libraries for implementing SQL-like functions directly into javascript code allow for more streamlined methods for performing CRUD operations.
 
+## Demo
+
+[Demo video link](https://drive.google.com/file/d/1-0J8tUt9qHdL7HW6P5MruOFvQp4KitAW/view?usp=sharing)
+
 ## Sample Images
 
 ![alt text](./assets/images/sample%201.png 'Sample Image 1')
